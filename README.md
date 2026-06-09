@@ -1,8 +1,8 @@
-# GameCreepr's Retro Ore Outlines
+# Retro Ore Outlines
 
 Retro Ores plus Ore Outlines
 
-Vanilla Retro Ore textures and Ore Outline textures made by the fine folks at [Vanilla Tweaks](vanillatweaks.net), merged by me. Modded ore outline texutes made by myself.
+Vanilla stone ore and nether textures made entirely by [Vanilla Tweaks](vanillatweaks.net). Deepslate ore textures assembled by myself with texutres made by VT. Modded ore outlines made entirely by me.
 
 Current implemented modded ores:
 * Create
